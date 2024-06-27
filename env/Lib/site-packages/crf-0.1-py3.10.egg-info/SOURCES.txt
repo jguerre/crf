@@ -1,0 +1,8 @@
+README.md
+setup.py
+crf/__init__.py
+crf/operations.py
+crf.egg-info/PKG-INFO
+crf.egg-info/SOURCES.txt
+crf.egg-info/dependency_links.txt
+crf.egg-info/top_level.txt
